@@ -14,7 +14,6 @@ const App = () => {
     <>
       <div class="container">
         <NavBar />
-
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/SoftSkill" element={<SoftSkill />} />
@@ -22,7 +21,6 @@ const App = () => {
           <Route path="/Project" element={<Project />} />
           <Route path="/Contact" element={<Contact />} />
         </Routes>
-
         <Footer />
       </div>
     </>
