@@ -1,0 +1,18 @@
+
+
+.box {
+  display: flex;
+  margin: 30px;
+}
+
+.le {
+    background-color: #c4c4cc;
+  margin: 10px;
+  border: 1px #c4c4cc solid;
+  width: 300vw;
+  height: 50vh;
+}
+
+.ld {
+  margin: 10px;
+}
